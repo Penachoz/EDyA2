@@ -40,5 +40,4 @@ stack.push("metamorphosis", 12, "Kafka", "Cuento grifin");
 stack.push("Sech", 13, "Danilo", "JAJAJA");
 stack.push("Que mas pues", 43, "Sigo aca pensando", "GG");
 stack.print();
-stack.pop();
-stack.print();
+
