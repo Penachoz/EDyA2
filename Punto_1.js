@@ -57,8 +57,8 @@ class ListaEnlazada{
 
 let lista1 = new ListaEnlazada();
 let lista2 = new ListaEnlazada();
-// Insert numbers one by one
-let numbers = [3, 1, 4, 2, 5, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39];  // Example numbers
+
+let numbers = [3, 1, 4, 2, 5, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39];  
 numbers.forEach(number => {
     lista1.add(number);
 });
