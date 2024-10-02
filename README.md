@@ -1,2 +1,3 @@
 # EDyA2
-Hecho en cali, colombia.
+Repositorio hecho por DAVID ALEJANDRO PENAGOS VALENCIA
+Estudiante de Ing Informatica de la Universidad Autonoma de Occidente
