@@ -1,5 +1,5 @@
 import React from 'react';
-import { useCalculator } from './useCalculadora'; // Asegúrate de que el nombre del archivo esté correcto
+import { useCalculator } from './useCalculadora';
 
 import "./CalcStyles.css";
 const Calculator = () => {
