@@ -1,0 +1,65 @@
+button {
+    font-size: 2rem; 
+    width: 70px; 
+    height: 70px; 
+    border: 4px solid #d6d6d6;
+    margin: 3px; 
+    border-radius: 10px;
+}
+
+.Calcu {
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.display {
+    width: 60%;
+    height: 40px; 
+    align-self: center;
+    background: lightgray;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 2rem; 
+}
+
+.expression {
+    height: 30px;
+    color: rgb(170, 170, 170);
+    font-size: 1.5rem; 
+}
+
+.panel {
+    display: flex;
+    justify-content: center;
+    margin-top: 2px; 
+}
+
+.numbers {
+    display: flex;
+    flex-flow: wrap;
+    flex-wrap: wrap;
+    justify-items: stretch;
+    width: 230px; 
+}
+
+.numbers button:last-child {
+    width: 100%; 
+}
+
+.operators {
+    display: flex;
+    flex-flow: column;
+    margin-left: 20px; 
+}
+
+.operators button {
+    color: white;
+    background: #ffc164;
+    
+    font-size: 2rem; 
+    height: 70px; 
+    width: 70px; 
+}
