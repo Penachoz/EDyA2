@@ -1,2 +1,2 @@
 # EDyA2
-Hecho en cali, colombia.
+Hecho por David Alejandro Penagos Valencia
