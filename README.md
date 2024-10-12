@@ -1,5 +1,6 @@
 # EDyA2
 Hecho en cali, colombia.
+
 Create a new customHook called useFetch
 
 Implements fetch api which receives any url and returns data from fetch when it changes, as follow: { data: null, isLoading: true, hasError: null }
